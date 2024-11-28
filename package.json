@@ -1,0 +1,22 @@
+{
+  "name": "fastify-swagger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fastify/swagger": "^8.0.0",
+    "@fastify/swagger-ui": "^1.0.0",
+    "@types/mongoose": "^5.11.97",
+    "fastify": "^4.28.1",
+    "fastify-plugin": "^5.0.0",
+    "mongoose": "^8.8.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}
